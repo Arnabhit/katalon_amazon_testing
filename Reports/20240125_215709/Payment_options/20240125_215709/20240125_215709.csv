@@ -1,0 +1,23 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Payment_options,Chrome 120.0.0.0,,,25-01-2024 21:57:12,25-01-2024 22:02:04,4m - 51.916s,PASSED
+,,,,,,,
+Test Cases/TC_Amazon_Home_008,Chrome 120.0.0.0,,,25-01-2024 21:57:12,25-01-2024 22:02:04,4m - 51.736s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,25-01-2024 21:57:12,25-01-2024 21:57:14,1.576s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 120.0.0.0,,,25-01-2024 21:57:14,25-01-2024 21:57:17,3.407s,PASSED
+"click(findTestObject(""Object Repository/Payment_option/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign in""))",Chrome 120.0.0.0,,,25-01-2024 21:57:17,25-01-2024 21:57:23,6.262s,PASSED
+"setText(findTestObject(""Object Repository/Payment_option/Page_Amazon Sign In/input_email""), ""9798810632"")",Chrome 120.0.0.0,,,25-01-2024 21:57:23,25-01-2024 21:57:27,3.862s,PASSED
+"click(findTestObject(""Object Repository/Payment_option/Page_Amazon Sign In/inputcontinue""))",Chrome 120.0.0.0,,,25-01-2024 21:57:27,25-01-2024 21:57:30,3.199s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Payment_option/Page_Amazon Sign In/input_password""), ""9N/NeoNUwAmOpqY2L/5HEg=="")",Chrome 120.0.0.0,,,25-01-2024 21:57:30,25-01-2024 21:57:31,0.593s,PASSED
+"click(findTestObject(""Object Repository/Payment_option/Page_Amazon Sign In/inputsignInSubmit""))",Chrome 120.0.0.0,,,25-01-2024 21:57:31,25-01-2024 21:57:31,0.389s,PASSED
+"setText(findTestObject(""Object Repository/Payment_option/Page_Online Shopping site in India Shop Onl_10c5f3/input_field-keywords""), ""mobile"")",Chrome 120.0.0.0,,,25-01-2024 21:57:31,25-01-2024 21:58:23,51.974s,PASSED
+"click(findTestObject(""Object Repository/Payment_option/Page_Online Shopping site in India Shop Onl_10c5f3/inputnav-search-submit-button""))",Chrome 120.0.0.0,,,25-01-2024 21:58:23,25-01-2024 21:58:34,10.205s,PASSED
+"click(findTestObject(""Object Repository/Payment_option/Page_Amazon.in  mobile/img_s-image""))",Chrome 120.0.0.0,,,25-01-2024 21:58:34,25-01-2024 21:58:38,4.384s,PASSED
+"switchToWindowTitle(""POCO C51 (Royal Blue, 6GB RAM, 128GB Storage) : Amazon.in: Electronics"", OPTIONAL)",Chrome 120.0.0.0,,,25-01-2024 21:58:38,25-01-2024 21:59:28,49.628s,PASSED
+"click(findTestObject(""Object Repository/Payment_option/Page_POCO C51 (Royal Blue, 6GB RAM, 128GB S_6ad531/input_submit.add-to-cart""), OPTIONAL)",Chrome 120.0.0.0,,,25-01-2024 21:59:28,25-01-2024 21:59:30,2.386s,PASSED
+"click(findTestObject(""Object Repository/Payment_option/Page_POCO C51 (Royal Blue, 6GB RAM, 128GB S_6ad531/aattach-close_sideSheet-link""), OPTIONAL)",Chrome 120.0.0.0,,,25-01-2024 21:59:30,25-01-2024 21:59:38,7.684s,PASSED
+"click(findTestObject(""Object Repository/Payment_option/Page_POCO C51 (Royal Blue, 6GB RAM, 128GB S_6ad531/input_submit.buy-now""))",Chrome 120.0.0.0,,,25-01-2024 21:59:38,25-01-2024 21:59:44,6.128s,PASSED
+"click(findTestObject(""Object Repository/Payment_option/Page_Select a Payment Method - Amazon.in Checkout/input_ppw-instrumentRowSelection""))",Chrome 120.0.0.0,,,25-01-2024 21:59:44,25-01-2024 22:00:18,34.532s,PASSED
+"click(findTestObject(""Object Repository/Payment_option/Page_Select a Payment Method - Amazon.in Checkout/input_ppw-instrumentRowSelection_1""))",Chrome 120.0.0.0,,,25-01-2024 22:00:18,25-01-2024 22:00:53,34.966s,PASSED
+"click(findTestObject(""Object Repository/Payment_option/Page_Select a Payment Method - Amazon.in Checkout/div_Net Banking""))",Chrome 120.0.0.0,,,25-01-2024 22:00:53,25-01-2024 22:01:28,34.989s,PASSED
+"click(findTestObject(""Object Repository/Payment_option/Page_Select a Payment Method - Amazon.in Checkout/input_ppw-instrumentRowSelection_1_2""))",Chrome 120.0.0.0,,,25-01-2024 22:01:28,25-01-2024 22:02:03,35.031s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,25-01-2024 22:02:03,25-01-2024 22:02:04,0.249s,PASSED

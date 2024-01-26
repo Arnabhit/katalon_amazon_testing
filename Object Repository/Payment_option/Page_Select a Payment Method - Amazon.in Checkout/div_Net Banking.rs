@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Net Banking</name>
+   <tag></tag>
+   <elementGuidId>e71bc356-df7f-4857-85c6-89c28cc30d79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.a-radio.a-spacing-top-mini</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pp-7Pqs4I-102']/div/div/div/div/span/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dca49c13-2649-444a-963f-097677105480</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-a-input-name</name>
+      <type>Main</type>
+      <value>ppw-instrumentRowSelection</value>
+      <webElementGuid>9feb347f-6c6c-4758-8dab-8d9c8d14af61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-radio a-spacing-top-mini</value>
+      <webElementGuid>35657766-6e90-4339-8696-aa0077eca9b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Net Banking</value>
+      <webElementGuid>ec9d5ca5-9885-4108-abb5-7ea292342469</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pp-7Pqs4I-102&quot;)/div[@class=&quot;a-box-inner a-padding-small&quot;]/div[@class=&quot;a-fixed-left-grid a-spacing-top-base&quot;]/div[@class=&quot;a-fixed-left-grid-inner&quot;]/div[@class=&quot;a-fixed-left-grid-col a-col-left&quot;]/span[1]/div[@class=&quot;a-radio a-spacing-top-mini&quot;]</value>
+      <webElementGuid>55690fbb-2b8c-42d3-9ae5-4091630ea508</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pp-7Pqs4I-102']/div/div/div/div/span/div</value>
+      <webElementGuid>f2873f2a-ce7a-4e63-9338-efaf968d1677</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/span/div</value>
+      <webElementGuid>9c40816f-c482-4fb9-b32d-40e7a4e94900</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Net Banking' or . = 'Net Banking')]</value>
+      <webElementGuid>feab78fd-5a7b-45a1-b3bc-0da4dec61ccd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

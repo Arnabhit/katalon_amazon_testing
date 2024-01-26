@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Sort_Test/Page_Amazon.in Watches For Men/img__bGlmZ_image_1pfbQ",
+      "brokenLocator": "//div[@id\u003d\u0027CardInstance5N2Wa3IxU3DJlulJU3wc0A\u0027]/div/div/div/div/div/a/div/img",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//img[contains(@src,\u0027https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/0384ab9c-1a1c-4769-b6f4-936c9538a65a._CR0,0,2500,525_AC_SX130_SY60_QL70_.png\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240125_134820/Sort_Test/20240125_134820/Object Repository/Sort_Test/Page_Amazon.in Watches For Men/img__bGlmZ_image_1pfbQ_img.png"
+    }
+  ]
+}

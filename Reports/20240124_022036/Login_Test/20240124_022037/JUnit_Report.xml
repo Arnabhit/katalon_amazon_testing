@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Login_Test" time="11.393" tests="1" failures="0" errors="0">
+   <testsuite name="Login_Test" tests="1" failures="0" errors="0" time="11.393" skipped="0" timestamp="24-01-2024T02:20:41" hostname="Win11 - Arnab-er" id="Test Suites/Login_Test">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Win11\\git\\katalon_amazon_testing\\Reports\\20240124_022036\\Login_Test\\20240124_022037"/>
+         <property name="logFiles" value="C:\\Users\\Win11\\git\\katalon_amazon_testing\\Reports\\20240124_022036\\Login_Test\\20240124_022037\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Win11 - Arnab-er"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.1.0.212"/>
+         <property name="browser" value="Chrome 120.0.0.0"/>
+         <property name="hostAddress" value="192.168.115.7"/>
+         <property name="sessionId" value="2c092097ae53ad326a757bd8565d6beb"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Amazon_Login_Test" time="11.214" classname="Test Cases/Amazon_Login_Test" status="PASSED">
+         <system-out><![CDATA[24-01-2024T02:20:41 - [TEST_CASE][PASSED] - Test Cases/Amazon_Login_Test: Test Cases/Amazon_Login_Test
+
+24-01-2024T02:20:41 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+24-01-2024T02:20:42 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+24-01-2024T02:20:42 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+24-01-2024T02:20:43 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+24-01-2024T02:20:43 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.in/"): Navigate to 'https://www.amazon.in/' successfully
+
+24-01-2024T02:20:45 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.in/' successfully
+
+24-01-2024T02:20:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login_Test/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign in")): Object: 'Object Repository/Login_Test/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign in' is clicked on
+
+24-01-2024T02:20:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Login_Test/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign in' is clicked on
+
+24-01-2024T02:20:48 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login_Test/Page_Amazon Sign In/input_email"), "arnabbaruajsr@gmail.com"): Text 'arnabbaruajsr@gmail.com' is set on object 'Object Repository/Login_Test/Page_Amazon Sign In/input_email'
+
+24-01-2024T02:20:50 - [MESSAGE][PASSED] - Text 'arnabbaruajsr@gmail.com' is set on object 'Object Repository/Login_Test/Page_Amazon Sign In/input_email'
+
+24-01-2024T02:20:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login_Test/Page_Amazon Sign In/inputcontinue")): Object: 'Object Repository/Login_Test/Page_Amazon Sign In/inputcontinue' is clicked on
+
+24-01-2024T02:20:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Login_Test/Page_Amazon Sign In/inputcontinue' is clicked on
+
+24-01-2024T02:20:51 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Login_Test/Page_Amazon Sign In/input_password"), "9N/NeoNUwAmOpqY2L/5HEg=="): Text ****** has been set on object 'Object Repository/Login_Test/Page_Amazon Sign In/input_password'
+
+24-01-2024T02:20:52 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Login_Test/Page_Amazon Sign In/input_password'
+
+24-01-2024T02:20:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login_Test/Page_Amazon Sign In/inputsignInSubmit")): Object: 'Object Repository/Login_Test/Page_Amazon Sign In/inputsignInSubmit' is clicked on
+
+24-01-2024T02:20:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Login_Test/Page_Amazon Sign In/inputsignInSubmit' is clicked on
+
+24-01-2024T02:20:52 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+24-01-2024T02:20:52 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[24-01-2024T02:20:41 - [TEST_SUITE][PASSED] - Login_Test: Test Cases/Amazon_Login_Test]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

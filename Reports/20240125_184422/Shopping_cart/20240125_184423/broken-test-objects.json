@@ -1,0 +1,44 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Product_Cart_Test/Page_Buy GUESS Analog Beige Dial Mens Watch_36e5d7/input_a-button-input",
+      "brokenLocator": "(//input[@type\u003d\u0027submit\u0027])[24]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[@type \u003d \u0027submit\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240125_184422/Shopping_cart/20240125_184423/Object Repository/Product_Cart_Test/Page_Buy GUESS Analog Beige Dial Mens Watch_36e5d7/input_a-button-input_customAttributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Product_Cart_Test/Page_Amazon.in Shopping Cart/a_Go to Cart",
+      "brokenLocator": "//span[@id\u003d\u0027sw-gtc\u0027]/span/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[3]/div/span/span/a",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240125_184422/Shopping_cart/20240125_184423/Object Repository/Product_Cart_Test/Page_Amazon.in Shopping Cart/a_Go to Cart_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Product_Cart_Test/product1/Page_Amazon.in Shopping Cart/input_submit.delete.74e5e150-dfed-4ef6-9522_931099",
+      "brokenLocator": "//input[@name\u003d\u0027submit.delete.74e5e150-dfed-4ef6-9522-076a17dbbd1c\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span[2]/span/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240125_184422/Shopping_cart/20240125_184423/Object Repository/Product_Cart_Test/product1/Page_Amazon.in Shopping Cart/input_submit.delete.74e5e150-dfed-4ef6-9522_931099_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Product_Cart_Test/product1/Page_Amazon.in Shopping Cart/input_submit.delete.3c28bbc2-6709-40da-a37c_5ae046",
+      "brokenLocator": "//input[@name\u003d\u0027submit.delete.3c28bbc2-6709-40da-a37c-139d6af24ad6\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span[2]/span/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240125_184422/Shopping_cart/20240125_184423/Object Repository/Product_Cart_Test/product1/Page_Amazon.in Shopping Cart/input_submit.delete.3c28bbc2-6709-40da-a37c_5ae046_position.png"
+    }
+  ]
+}

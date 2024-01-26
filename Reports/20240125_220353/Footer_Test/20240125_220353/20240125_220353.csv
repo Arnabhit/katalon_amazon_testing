@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Footer_Test,Chrome 120.0.0.0,,,25-01-2024 22:03:58,25-01-2024 22:05:44,1m - 46.708s,PASSED
+,,,,,,,
+Test Cases/TC_Amazon_Home_009,Chrome 120.0.0.0,,,25-01-2024 22:04:48,25-01-2024 22:05:44,55.941s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,25-01-2024 22:04:48,25-01-2024 22:04:49,0.950s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 120.0.0.0,,,25-01-2024 22:04:49,25-01-2024 22:04:53,3.301s,PASSED
+"click(findTestObject(""Object Repository/Footer_links/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign in""))",Chrome 120.0.0.0,,,25-01-2024 22:04:53,25-01-2024 22:04:57,4.165s,PASSED
+"setText(findTestObject(""Object Repository/Footer_links/Page_Amazon Sign In/input_email""), ""9798810632"")",Chrome 120.0.0.0,,,25-01-2024 22:04:57,25-01-2024 22:04:59,2.115s,PASSED
+"click(findTestObject(""Object Repository/Footer_links/Page_Amazon Sign In/inputcontinue""))",Chrome 120.0.0.0,,,25-01-2024 22:04:59,25-01-2024 22:05:01,1.692s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Footer_links/Page_Amazon Sign In/input_password""), ""9N/NeoNUwAmOpqY2L/5HEg=="")",Chrome 120.0.0.0,,,25-01-2024 22:05:01,25-01-2024 22:05:01,0.877s,PASSED
+"click(findTestObject(""Object Repository/Footer_links/Page_Amazon Sign In/inputsignInSubmit""))",Chrome 120.0.0.0,,,25-01-2024 22:05:01,25-01-2024 22:05:02,0.394s,PASSED
+"click(findTestObject(""Object Repository/Footer_links/Page_Online Shopping site in India Shop Onl_10c5f3/div_Get to Know Us""))",Chrome 120.0.0.0,,,25-01-2024 22:05:02,25-01-2024 22:05:28,26.501s,PASSED
+"click(findTestObject(""Object Repository/Footer_links/Page_Online Shopping site in India Shop Onl_10c5f3/div_Connect with Us                        _36d1e9""))",Chrome 120.0.0.0,,,25-01-2024 22:05:28,25-01-2024 22:05:32,3.385s,PASSED
+"click(findTestObject(""Object Repository/Footer_links/Page_Online Shopping site in India Shop Onl_10c5f3/div_Make Money with Us""))",Chrome 120.0.0.0,,,25-01-2024 22:05:32,25-01-2024 22:05:32,0.481s,PASSED
+"click(findTestObject(""Object Repository/Footer_links/Page_Online Shopping site in India Shop Onl_10c5f3/div_Let Us Help You""))",Chrome 120.0.0.0,,,25-01-2024 22:05:32,25-01-2024 22:05:33,1.000s,PASSED
+"click(findTestObject(""Object Repository/Footer_links/Page_Online Shopping site in India Shop Onl_10c5f3/div_nav-logo-base nav-sprite""))",Chrome 120.0.0.0,,,25-01-2024 22:05:33,25-01-2024 22:05:43,9.703s,PASSED
+"click(findTestObject(""Object Repository/Footer_links/Page_Online Shopping site in India Shop Onl_10c5f3/span_Back to top""))",Chrome 120.0.0.0,,,25-01-2024 22:05:43,25-01-2024 22:05:44,1.146s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,25-01-2024 22:05:44,25-01-2024 22:05:44,0.211s,PASSED

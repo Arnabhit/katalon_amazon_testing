@@ -1,0 +1,33 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Sort_Test,Chrome 120.0.0.0,,,25-01-2024 13:48:25,25-01-2024 13:51:27,3m - 1.443s,PASSED
+,,,,,,,
+Test Cases/TC_Amazon_Home_005.1,Chrome 120.0.0.0,,,25-01-2024 13:49:12,25-01-2024 13:49:48,36.257s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,25-01-2024 13:49:12,25-01-2024 13:49:13,1.004s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 120.0.0.0,,,25-01-2024 13:49:13,25-01-2024 13:49:13,0.718s,PASSED
+"click(findTestObject(""Object Repository/Sort_Test/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign in""))",Chrome 120.0.0.0,,,25-01-2024 13:49:13,25-01-2024 13:49:18,5.114s,PASSED
+"setText(findTestObject(""Object Repository/Sort_Test/Page_Amazon Sign In/input_email""), ""9798810632"")",Chrome 120.0.0.0,,,25-01-2024 13:49:18,25-01-2024 13:49:20,1.685s,PASSED
+"click(findTestObject(""Object Repository/Sort_Test/Page_Amazon Sign In/inputcontinue""))",Chrome 120.0.0.0,,,25-01-2024 13:49:20,25-01-2024 13:49:22,1.549s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Sort_Test/Page_Amazon Sign In/input_password""), ""9N/NeoNUwAmOpqY2L/5HEg=="")",Chrome 120.0.0.0,,,25-01-2024 13:49:22,25-01-2024 13:49:23,1.000s,PASSED
+"click(findTestObject(""Object Repository/Sort_Test/Page_Amazon Sign In/inputsignInSubmit""))",Chrome 120.0.0.0,,,25-01-2024 13:49:23,25-01-2024 13:49:23,0.460s,PASSED
+"setText(findTestObject(""Object Repository/Sort_Test/Page_Online Shopping site in India Shop Onl_10c5f3/input_field-keywords""), ""mobile phones"")",Chrome 120.0.0.0,,,25-01-2024 13:49:23,25-01-2024 13:49:35,12.004s,PASSED
+"click(findTestObject(""Object Repository/Sort_Test/Page_Online Shopping site in India Shop Onl_10c5f3/inputnav-search-submit-button""))",Chrome 120.0.0.0,,,25-01-2024 13:49:35,25-01-2024 13:49:44,8.467s,PASSED
+"click(findTestObject(""Object Repository/Sort_Test/Page_Amazon.in  mobile phones/span_Sort byFeatured""))",Chrome 120.0.0.0,,,25-01-2024 13:49:44,25-01-2024 13:49:45,1.452s,PASSED
+"click(findTestObject(""Object Repository/Sort_Test/Page_Amazon.in  mobile phones/a_Price Low to High""))",Chrome 120.0.0.0,,,25-01-2024 13:49:45,25-01-2024 13:49:46,0.708s,PASSED
+"click(findTestObject(""Object Repository/Sort_Test/Page_Amazon.in Mobile Phones/span_Results""))",Chrome 120.0.0.0,,,25-01-2024 13:49:46,25-01-2024 13:49:48,1.765s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,25-01-2024 13:49:48,25-01-2024 13:49:48,0.301s,PASSED
+,,,,,,,
+Test Cases/TC_Amazon_Home_005.2,Chrome 120.0.0.0,,,25-01-2024 13:50:26,25-01-2024 13:51:27,1m - 0.909s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,25-01-2024 13:50:26,25-01-2024 13:50:27,0.902s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 120.0.0.0,,,25-01-2024 13:50:27,25-01-2024 13:50:29,2.255s,PASSED
+"click(findTestObject(""Object Repository/Sort_Test/Page_Online Shopping site in India Shop Onl_10c5f3 (1)/span_Sign in""))",Chrome 120.0.0.0,,,25-01-2024 13:50:29,25-01-2024 13:50:31,2.201s,PASSED
+"setText(findTestObject(""Object Repository/Sort_Test/sort1/Page_Amazon Sign In/input_email""), ""9798810632"")",Chrome 120.0.0.0,,,25-01-2024 13:50:31,25-01-2024 13:50:33,1.553s,PASSED
+"click(findTestObject(""Object Repository/Sort_Test/sort1/Page_Amazon Sign In/inputcontinue""))",Chrome 120.0.0.0,,,25-01-2024 13:50:33,25-01-2024 13:50:34,1.511s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Sort_Test/sort1/Page_Amazon Sign In/input_password""), ""9N/NeoNUwAmOpqY2L/5HEg=="")",Chrome 120.0.0.0,,,25-01-2024 13:50:34,25-01-2024 13:50:35,1.032s,PASSED
+"click(findTestObject(""Object Repository/Sort_Test/sort1/Page_Amazon Sign In/inputsignInSubmit""))",Chrome 120.0.0.0,,,25-01-2024 13:50:35,25-01-2024 13:50:36,0.438s,PASSED
+"setText(findTestObject(""Object Repository/Sort_Test/Page_Online Shopping site in India Shop Onl_10c5f3 (1)/input_field-keywords""), ""watches"")",Chrome 120.0.0.0,,,25-01-2024 13:50:36,25-01-2024 13:50:45,8.951s,PASSED
+"click(findTestObject(""Object Repository/Sort_Test/Page_Online Shopping site in India Shop Onl_10c5f3 (1)/input_field-keywords""))",Chrome 120.0.0.0,,,25-01-2024 13:50:45,25-01-2024 13:50:46,1.213s,PASSED
+"click(findTestObject(""Object Repository/Sort_Test/Page_Online Shopping site in India Shop Onl_10c5f3 (1)/div_watches for men""))",Chrome 120.0.0.0,,,25-01-2024 13:50:46,25-01-2024 13:50:52,6.665s,PASSED
+"click(findTestObject(""Object Repository/Sort_Test/sort1/Page_Amazon.in  watches for men/span_Sort by""))",Chrome 120.0.0.0,,,25-01-2024 13:50:52,25-01-2024 13:50:53,0.898s,PASSED
+"click(findTestObject(""Object Repository/Sort_Test/sort1/Page_Amazon.in  watches for men/a_Newest Arrivals""))",Chrome 120.0.0.0,,,25-01-2024 13:50:53,25-01-2024 13:50:55,1.493s,PASSED
+"click(findTestObject(""Object Repository/Sort_Test/Page_Amazon.in Watches For Men/img__bGlmZ_image_1pfbQ""))",Chrome 120.0.0.0,,,25-01-2024 13:50:55,25-01-2024 13:51:26,31.519s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,25-01-2024 13:51:26,25-01-2024 13:51:27,0.238s,PASSED

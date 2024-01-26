@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="User_Registration" time="91.442" tests="1" failures="0" errors="0">
+   <testsuite name="User_Registration" tests="1" failures="0" errors="0" time="91.442" skipped="0" timestamp="27-01-2024T00:11:14" hostname="Win11 - Arnab-er" id="Test Suites/User_Registration">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Win11\\git\\katalon_amazon_testing\\Reports\\20240127_001109\\User_Registration\\20240127_001110"/>
+         <property name="logFiles" value="C:\\Users\\Win11\\git\\katalon_amazon_testing\\Reports\\20240127_001109\\User_Registration\\20240127_001110\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\Win11\\git\\katalon_amazon_testing\\Reports\\20240127_001109\\User_Registration\\20240127_001110\\1706294547443.png"/>
+         <property name="hostName" value="Win11 - Arnab-er"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.1.0.212"/>
+         <property name="browser" value="Chrome 121.0.0.0"/>
+         <property name="hostAddress" value="192.168.30.7"/>
+         <property name="sessionId" value="02402b909772b861a2bf124fae477d86"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/TC_Amazon_Home_001" time="91.244" classname="Test Cases/TC_Amazon_Home_001" status="PASSED">
+         <system-out><![CDATA[27-01-2024T00:11:14 - [TEST_CASE][PASSED] - Test Cases/TC_Amazon_Home_001: Test Cases/TC_Amazon_Home_001
+
+27-01-2024T00:11:14 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: Current window maximized
+
+27-01-2024T00:11:14 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+27-01-2024T00:11:14 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+27-01-2024T00:11:14 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+27-01-2024T00:11:16 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+27-01-2024T00:11:16 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.in/"): Navigate to 'https://www.amazon.in/' successfully
+
+27-01-2024T00:11:18 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.in/' successfully
+
+27-01-2024T00:11:18 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+27-01-2024T00:11:18 - [MESSAGE][PASSED] - Current window maximized
+
+27-01-2024T00:11:18 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: Navigate to 'https://www.amazon.in/' successfully
+
+27-01-2024T00:11:18 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+27-01-2024T00:11:18 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+27-01-2024T00:11:18 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+27-01-2024T00:11:18 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+27-01-2024T00:11:18 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+27-01-2024T00:11:18 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.in/"): Navigate to 'https://www.amazon.in/' successfully
+
+27-01-2024T00:11:21 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.in/' successfully
+
+27-01-2024T00:11:21 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+27-01-2024T00:11:21 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+27-01-2024T00:11:21 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+27-01-2024T00:11:21 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+27-01-2024T00:11:21 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+27-01-2024T00:11:21 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.in/"): Navigate to 'https://www.amazon.in/' successfully
+
+27-01-2024T00:11:24 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.in/' successfully
+
+27-01-2024T00:11:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/User_Registration/Page_Online Shopping site in India Shop Onl_10c5f3/a_Start here")): Object: 'Object Repository/User_Registration/Page_Online Shopping site in India Shop Onl_10c5f3/a_Start here' is clicked on
+
+27-01-2024T00:11:26 - [MESSAGE][PASSED] - Object: 'Object Repository/User_Registration/Page_Online Shopping site in India Shop Onl_10c5f3/a_Start here' is clicked on
+
+27-01-2024T00:11:26 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/User_Registration/Page_Amazon Registration/input_customerName"), "ARNAB BARUA"): Text 'ARNAB BARUA' is set on object 'Object Repository/User_Registration/Page_Amazon Registration/input_customerName'
+
+27-01-2024T00:11:27 - [MESSAGE][PASSED] - Text 'ARNAB BARUA' is set on object 'Object Repository/User_Registration/Page_Amazon Registration/input_customerName'
+
+27-01-2024T00:11:27 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/User_Registration/Page_Amazon Registration/input_email"), "9798810632"): Text '9798810632' is set on object 'Object Repository/User_Registration/Page_Amazon Registration/input_email'
+
+27-01-2024T00:11:28 - [MESSAGE][PASSED] - Text '9798810632' is set on object 'Object Repository/User_Registration/Page_Amazon Registration/input_email'
+
+27-01-2024T00:11:28 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/User_Registration/Page_Amazon Registration/input_secondaryLoginClaim"), "baruaarnab12@gmail.com"): Text 'baruaarnab12@gmail.com' is set on object 'Object Repository/User_Registration/Page_Amazon Registration/input_secondaryLoginClaim'
+
+27-01-2024T00:11:29 - [MESSAGE][PASSED] - Text 'baruaarnab12@gmail.com' is set on object 'Object Repository/User_Registration/Page_Amazon Registration/input_secondaryLoginClaim'
+
+27-01-2024T00:11:29 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/User_Registration/Page_Amazon Registration/input_password"), "8s2V7lLGyYS0p41NUiUZpA=="): Text ****** has been set on object 'Object Repository/User_Registration/Page_Amazon Registration/input_password'
+
+27-01-2024T00:11:29 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/User_Registration/Page_Amazon Registration/input_password'
+
+27-01-2024T00:11:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/User_Registration/Page_Amazon Registration/inputcontinue"), OPTIONAL): Object: 'Object Repository/User_Registration/Page_Amazon Registration/inputcontinue' is clicked on
+
+27-01-2024T00:11:31 - [MESSAGE][PASSED] - Object: 'Object Repository/User_Registration/Page_Amazon Registration/inputcontinue' is clicked on
+
+27-01-2024T00:11:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/User_Registration/Page_Authentication required/i_a-icon a-icon-logo"), OPTIONAL): Object: 'Object Repository/User_Registration/Page_Authentication required/i_a-icon a-icon-logo' is clicked on
+
+27-01-2024T00:11:55 - [MESSAGE][PASSED] - Object: 'Object Repository/User_Registration/Page_Authentication required/i_a-icon a-icon-logo' is clicked on
+
+27-01-2024T00:11:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/User_Registration/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign in"), OPTIONAL): Unable to click on object 'Object Repository/User_Registration/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign in' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/User_Registration/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign in'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:647)
+	at TC_Amazon_Home_001.run(TC_Amazon_Home_001:39)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1706294470895.run(TempTestSuite1706294470895.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/User_Registration/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign in' located by '//div[@id='nav-flyout-ya-signin']/a/span' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1379)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:647)
+	at Script1706293870079.run(Script1706293870079.groovy:39)
+	... 15 more
+)
+
+27-01-2024T00:12:27 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='nav-flyout-ya-signin']/a/span'. Please recheck the objects properties to make sure the desired element is located. 
+
+27-01-2024T00:12:27 - [MESSAGE][WARNING] - Unable to click on object 'Object Repository/User_Registration/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign in' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/User_Registration/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign in'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:647)
+	at TC_Amazon_Home_001.run(TC_Amazon_Home_001:39)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1706294470895.run(TempTestSuite1706294470895.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/User_Registration/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign in' located by '//div[@id='nav-flyout-ya-signin']/a/span' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1379)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:647)
+	at Script1706293870079.run(Script1706293870079.groovy:39)
+	... 15 more
+)
+[[ATTACHMENT|C:\\Users\\Win11\\git\\katalon_amazon_testing\\Reports\\20240127_001109\\User_Registration\\20240127_001110\\1706294547443.png]]
+
+27-01-2024T00:12:27 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/User_Registration/Page_Amazon Sign In/input_email"), "9798810632"): Text '9798810632' is set on object 'Object Repository/User_Registration/Page_Amazon Sign In/input_email'
+
+27-01-2024T00:12:28 - [MESSAGE][PASSED] - Text '9798810632' is set on object 'Object Repository/User_Registration/Page_Amazon Sign In/input_email'
+
+27-01-2024T00:12:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/User_Registration/Page_Amazon Sign In/inputcontinue")): Object: 'Object Repository/User_Registration/Page_Amazon Sign In/inputcontinue' is clicked on
+
+27-01-2024T00:12:30 - [MESSAGE][PASSED] - Object: 'Object Repository/User_Registration/Page_Amazon Sign In/inputcontinue' is clicked on
+
+27-01-2024T00:12:30 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/User_Registration/Page_Amazon Sign In/input_password"), "9N/NeoNUwAmOpqY2L/5HEg=="): Text ****** has been set on object 'Object Repository/User_Registration/Page_Amazon Sign In/input_password'
+
+27-01-2024T00:12:30 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/User_Registration/Page_Amazon Sign In/input_password'
+
+27-01-2024T00:12:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/User_Registration/Page_Amazon Sign In/inputsignInSubmit")): Object: 'Object Repository/User_Registration/Page_Amazon Sign In/inputsignInSubmit' is clicked on
+
+27-01-2024T00:12:31 - [MESSAGE][PASSED] - Object: 'Object Repository/User_Registration/Page_Amazon Sign In/inputsignInSubmit' is clicked on
+
+27-01-2024T00:12:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/User_Registration/Page_Online Shopping site in India Shop Onl_10c5f3/a_in")): Object: 'Object Repository/User_Registration/Page_Online Shopping site in India Shop Onl_10c5f3/a_in' is clicked on
+
+27-01-2024T00:12:45 - [MESSAGE][PASSED] - Object: 'Object Repository/User_Registration/Page_Online Shopping site in India Shop Onl_10c5f3/a_in' is clicked on
+
+27-01-2024T00:12:45 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+27-01-2024T00:12:45 - [MESSAGE][PASSED] - Browser is closed
+
+27-01-2024T00:12:45 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: Browser is closed
+
+27-01-2024T00:12:45 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+27-01-2024T00:12:45 - [MESSAGE][PASSED] - Browser is closed
+
+27-01-2024T00:12:45 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: Browser is closed
+
+27-01-2024T00:12:45 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+27-01-2024T00:12:45 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[27-01-2024T00:11:14 - [TEST_SUITE][PASSED] - User_Registration: Test Cases/TC_Amazon_Home_001]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

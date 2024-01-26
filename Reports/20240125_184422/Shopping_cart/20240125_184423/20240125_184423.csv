@@ -1,0 +1,47 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Shopping_cart,Chrome 120.0.0.0,,,25-01-2024 18:44:28,25-01-2024 18:49:00,4m - 32.368s,PASSED
+,,,,,,,
+Test Cases/TC_Amazon_Home_006.1,Chrome 120.0.0.0,,,25-01-2024 18:44:28,25-01-2024 18:46:17,1m - 48.596s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,25-01-2024 18:44:29,25-01-2024 18:44:31,2.575s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 120.0.0.0,,,25-01-2024 18:44:31,25-01-2024 18:44:32,0.793s,PASSED
+"click(findTestObject(""Object Repository/Product_Cart_Test/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign in""))",Chrome 120.0.0.0,,,25-01-2024 18:44:32,25-01-2024 18:44:36,3.678s,PASSED
+"setText(findTestObject(""Object Repository/Product_Cart_Test/Page_Amazon Sign In/input_email""), ""9798810632"")",Chrome 120.0.0.0,,,25-01-2024 18:44:36,25-01-2024 18:44:38,2.153s,PASSED
+"click(findTestObject(""Object Repository/Product_Cart_Test/Page_Amazon Sign In/inputcontinue""))",Chrome 120.0.0.0,,,25-01-2024 18:44:38,25-01-2024 18:44:40,2.084s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Product_Cart_Test/Page_Amazon Sign In/input_password""), ""9N/NeoNUwAmOpqY2L/5HEg=="")",Chrome 120.0.0.0,,,25-01-2024 18:44:40,25-01-2024 18:44:41,0.978s,PASSED
+"click(findTestObject(""Object Repository/Product_Cart_Test/Page_Amazon Sign In/inputsignInSubmit""))",Chrome 120.0.0.0,,,25-01-2024 18:44:41,25-01-2024 18:44:42,0.506s,PASSED
+"setText(findTestObject(""Object Repository/Product_Cart_Test/Page_Online Shopping site in India Shop Onl_10c5f3/input_field-keywords""), ""watches"")",Chrome 120.0.0.0,,,25-01-2024 18:44:42,25-01-2024 18:44:52,10.467s,PASSED
+"click(findTestObject(""Object Repository/Product_Cart_Test/Page_Online Shopping site in India Shop Onl_10c5f3/inputnav-search-submit-button""))",Chrome 120.0.0.0,,,25-01-2024 18:44:52,25-01-2024 18:45:00,8.055s,PASSED
+"switchToWindowTitle(""Amazon.in : watches"")",Chrome 120.0.0.0,,,25-01-2024 18:45:00,25-01-2024 18:45:00,0.032s,PASSED
+"click(findTestObject(""Object Repository/Product_Cart_Test/Page_Amazon.in  watches/div_a-section aok-relative s-image-tall-aspect""))",Chrome 120.0.0.0,,,25-01-2024 18:45:00,25-01-2024 18:45:03,2.622s,PASSED
+"click(findTestObject(""Object Repository/Product_Cart_Test/Page_Buy GUESS Analog Beige Dial Mens Watch_36e5d7/input_a-button-input""))",Chrome 120.0.0.0,,,25-01-2024 18:45:03,25-01-2024 18:45:42,39.593s,PASSED
+"click(findTestObject(""Object Repository/Product_Cart_Test/Page_Amazon.in Shopping Cart/a_Go to Cart""))",Chrome 120.0.0.0,,,25-01-2024 18:45:42,25-01-2024 18:46:17,34.358s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,25-01-2024 18:46:17,25-01-2024 18:46:17,0.261s,PASSED
+,,,,,,,
+Test Cases/TC_Amazon_Home_006.2,Chrome 120.0.0.0,,,25-01-2024 18:46:17,25-01-2024 18:47:19,1m - 1.994s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,25-01-2024 18:46:17,25-01-2024 18:46:18,0.879s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 120.0.0.0,,,25-01-2024 18:46:18,25-01-2024 18:46:21,2.717s,PASSED
+"click(findTestObject(""Object Repository/Product_Cart_Test/Product/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign in""))",Chrome 120.0.0.0,,,25-01-2024 18:46:21,25-01-2024 18:46:23,2.520s,PASSED
+"setText(findTestObject(""Object Repository/Product_Cart_Test/Product/Page_Amazon Sign In/input_email""), ""9798810632"")",Chrome 120.0.0.0,,,25-01-2024 18:46:23,25-01-2024 18:46:25,1.772s,PASSED
+"click(findTestObject(""Object Repository/Product_Cart_Test/Product/Page_Amazon Sign In/inputcontinue""))",Chrome 120.0.0.0,,,25-01-2024 18:46:25,25-01-2024 18:46:27,1.645s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Product_Cart_Test/Product/Page_Amazon Sign In/input_password""), ""9N/NeoNUwAmOpqY2L/5HEg=="")",Chrome 120.0.0.0,,,25-01-2024 18:46:27,25-01-2024 18:46:27,0.954s,PASSED
+"click(findTestObject(""Object Repository/Product_Cart_Test/Product/Page_Amazon Sign In/inputsignInSubmit""))",Chrome 120.0.0.0,,,25-01-2024 18:46:27,25-01-2024 18:46:28,0.452s,PASSED
+"setText(findTestObject(""Object Repository/Product_Cart_Test/Product/Page_Online Shopping site in India Shop Onl_10c5f3/input_field-keywords""), ""watches"")",Chrome 120.0.0.0,,,25-01-2024 18:46:28,25-01-2024 18:46:36,7.572s,PASSED
+"click(findTestObject(""Object Repository/Product_Cart_Test/Product/Page_Online Shopping site in India Shop Onl_10c5f3/inputnav-search-submit-button""))",Chrome 120.0.0.0,,,25-01-2024 18:46:36,25-01-2024 18:46:43,7.775s,PASSED
+"click(findTestObject(""Object Repository/Product_Cart_Test/Product/Page_Amazon.in  watches/img_s-image""))",Chrome 120.0.0.0,,,25-01-2024 18:46:43,25-01-2024 18:46:45,2.202s,PASSED
+"switchToWindowTitle(""Amazon.in Shopping Cart"")",Chrome 120.0.0.0,,,25-01-2024 18:46:45,25-01-2024 18:47:16,30.662s,PASSED
+"click(findTestObject(""Object Repository/Product_Cart_Test/Product/Page_Amazon.in Shopping Cart/input_submit.addToCart""))",Chrome 120.0.0.0,,,25-01-2024 18:47:16,25-01-2024 18:47:19,2.494s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,25-01-2024 18:47:19,25-01-2024 18:47:19,0.273s,PASSED
+,,,,,,,
+Test Cases/TC_Amazon_Home_006.3,Chrome 120.0.0.0,,,25-01-2024 18:47:19,25-01-2024 18:49:00,1m - 41.456s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,25-01-2024 18:47:19,25-01-2024 18:47:20,0.970s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 120.0.0.0,,,25-01-2024 18:47:20,25-01-2024 18:47:21,0.749s,PASSED
+"click(findTestObject(""Object Repository/Product_Cart_Test/product1/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign in""))",Chrome 120.0.0.0,,,25-01-2024 18:47:21,25-01-2024 18:47:25,4.279s,PASSED
+"setText(findTestObject(""Object Repository/Product_Cart_Test/product1/Page_Amazon Sign In/input_email""), ""9798810632"")",Chrome 120.0.0.0,,,25-01-2024 18:47:25,25-01-2024 18:47:27,2.164s,PASSED
+"click(findTestObject(""Object Repository/Product_Cart_Test/product1/Page_Amazon Sign In/inputcontinue""))",Chrome 120.0.0.0,,,25-01-2024 18:47:27,25-01-2024 18:47:29,1.529s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Product_Cart_Test/product1/Page_Amazon Sign In/input_password""), ""9N/NeoNUwAmOpqY2L/5HEg=="")",Chrome 120.0.0.0,,,25-01-2024 18:47:29,25-01-2024 18:47:30,0.809s,PASSED
+"click(findTestObject(""Object Repository/Product_Cart_Test/product1/Page_Amazon Sign In/inputsignInSubmit""))",Chrome 120.0.0.0,,,25-01-2024 18:47:30,25-01-2024 18:47:30,0.446s,PASSED
+"click(findTestObject(""Object Repository/Product_Cart_Test/product1/Page_Online Shopping site in India Shop Onl_10c5f3/span_nav-cart-icon nav-sprite""), OPTIONAL)",Chrome 120.0.0.0,,,25-01-2024 18:47:30,25-01-2024 18:47:53,23.359s,PASSED
+"click(findTestObject(""Object Repository/Product_Cart_Test/product1/Page_Amazon.in Shopping Cart/input_submit.delete.74e5e150-dfed-4ef6-9522_931099""))",Chrome 120.0.0.0,,,25-01-2024 18:47:53,25-01-2024 18:48:26,32.726s,PASSED
+"click(findTestObject(""Object Repository/Product_Cart_Test/product1/Page_Amazon.in Shopping Cart/input_submit.delete.3c28bbc2-6709-40da-a37c_5ae046""))",Chrome 120.0.0.0,,,25-01-2024 18:48:26,25-01-2024 18:48:59,32.458s,PASSED
+"click(findTestObject(""Object Repository/Product_Cart_Test/product1/Page_Amazon.in Shopping Cart/h1_Your Amazon Cart is empty""))",Chrome 120.0.0.0,,,25-01-2024 18:48:59,25-01-2024 18:49:00,1.598s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,25-01-2024 18:49:00,25-01-2024 18:49:00,0.272s,PASSED

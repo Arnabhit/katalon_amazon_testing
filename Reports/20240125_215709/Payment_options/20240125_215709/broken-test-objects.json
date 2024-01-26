@@ -1,0 +1,44 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Payment_option/Page_Select a Payment Method - Amazon.in Checkout/input_ppw-instrumentRowSelection",
+      "brokenLocator": "//input[@id\u003d\u0027pp-7Pqs4I-128\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[5]/div/div/div/div/span/div/label/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240125_215709/Payment_options/20240125_215709/Object Repository/Payment_option/Page_Select a Payment Method - Amazon.in Checkout/input_ppw-instrumentRowSelection_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Payment_option/Page_Select a Payment Method - Amazon.in Checkout/input_ppw-instrumentRowSelection_1",
+      "brokenLocator": "//input[@id\u003d\u0027pp-7Pqs4I-123\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/div/label/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240125_215709/Payment_options/20240125_215709/Object Repository/Payment_option/Page_Select a Payment Method - Amazon.in Checkout/input_ppw-instrumentRowSelection_1_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Payment_option/Page_Select a Payment Method - Amazon.in Checkout/div_Net Banking",
+      "brokenLocator": "//div[@id\u003d\u0027pp-7Pqs4I-102\u0027]/div/div/div/div/span/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[3]/div/div/div/div/span/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240125_215709/Payment_options/20240125_215709/Object Repository/Payment_option/Page_Select a Payment Method - Amazon.in Checkout/div_Net Banking_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Payment_option/Page_Select a Payment Method - Amazon.in Checkout/input_ppw-instrumentRowSelection_1_2",
+      "brokenLocator": "//input[@id\u003d\u0027pp-7Pqs4I-97\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//label/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240125_215709/Payment_options/20240125_215709/Object Repository/Payment_option/Page_Select a Payment Method - Amazon.in Checkout/input_ppw-instrumentRowSelection_1_2_position.png"
+    }
+  ]
+}

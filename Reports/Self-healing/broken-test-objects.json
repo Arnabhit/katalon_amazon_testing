@@ -1,3 +1,194 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Login_Test/Amazon_TC_002.2/Page_Amazon Sign In/Page_Online Shopping site in India Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in/span_Sign in",
+      "brokenLocator": "//div[@id\u003d\u0027nav-signin-tooltip\u0027]/a/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span[(text() \u003d \u0027Sign in\u0027 or . \u003d \u0027Sign in\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Search/Page_Amazon Sign In/span_Sign in",
+      "brokenLocator": "//span[@id\u003d\u0027auth-signin-button\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/span",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Search/Page_Amazon Sign In/span_Sign in_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Search/Search_1/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign in",
+      "brokenLocator": "//div[@id\u003d\u0027nav-signin-tooltip\u0027]/a/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span[(text() \u003d \u0027Sign in\u0027 or . \u003d \u0027Sign in\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Sort_Test/Page_Amazon.in Watches For Men/img__bGlmZ_image_1pfbQ",
+      "brokenLocator": "//div[@id\u003d\u0027CardInstance5N2Wa3IxU3DJlulJU3wc0A\u0027]/div/div/div/div/div/a/div/img",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//img[contains(@src,\u0027https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/0384ab9c-1a1c-4769-b6f4-936c9538a65a._CR0,0,2500,525_AC_SX130_SY60_QL70_.png\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Sort_Test/Page_Amazon.in Watches For Men/img__bGlmZ_image_1pfbQ_img.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Product_Cart_Test/Page_Buy GUESS Analog Beige Dial Mens Watch_36e5d7/input_a-button-input",
+      "brokenLocator": "(//input[@type\u003d\u0027submit\u0027])[24]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[@type \u003d \u0027submit\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Product_Cart_Test/Page_Buy GUESS Analog Beige Dial Mens Watch_36e5d7/input_a-button-input_customAttributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Product_Cart_Test/Page_Amazon.in Shopping Cart/a_Go to Cart",
+      "brokenLocator": "//span[@id\u003d\u0027sw-gtc\u0027]/span/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[3]/div/span/span/a",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Product_Cart_Test/Page_Amazon.in Shopping Cart/a_Go to Cart_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/product1/Page_Amazon.in Shopping Cart/input_submit.delete.74e5e150-dfed-4ef6-9522_931099",
+      "brokenLocator": "//input[@name\u003d\u0027submit.delete.74e5e150-dfed-4ef6-9522-076a17dbbd1c\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span[2]/span/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/product1/Page_Amazon.in Shopping Cart/input_submit.delete.74e5e150-dfed-4ef6-9522_931099_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/product1/Page_Amazon.in Shopping Cart/input_submit.delete.3c28bbc2-6709-40da-a37c_5ae046",
+      "brokenLocator": "//input[@name\u003d\u0027submit.delete.3c28bbc2-6709-40da-a37c-139d6af24ad6\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span[2]/span/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/product1/Page_Amazon.in Shopping Cart/input_submit.delete.3c28bbc2-6709-40da-a37c_5ae046_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Product_Cart_Test/product1/Page_Amazon.in Shopping Cart/input_submit.delete.74e5e150-dfed-4ef6-9522_931099",
+      "brokenLocator": "//input[@name\u003d\u0027submit.delete.74e5e150-dfed-4ef6-9522-076a17dbbd1c\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span[2]/span/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Product_Cart_Test/product1/Page_Amazon.in Shopping Cart/input_submit.delete.74e5e150-dfed-4ef6-9522_931099_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Product_Cart_Test/product1/Page_Amazon.in Shopping Cart/input_submit.delete.3c28bbc2-6709-40da-a37c_5ae046",
+      "brokenLocator": "//input[@name\u003d\u0027submit.delete.3c28bbc2-6709-40da-a37c-139d6af24ad6\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span[2]/span/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Product_Cart_Test/product1/Page_Amazon.in Shopping Cart/input_submit.delete.3c28bbc2-6709-40da-a37c_5ae046_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/order_confirm/Page_Amazon.in  watches/img_s-image",
+      "brokenLocator": "//div[@id\u003d\u0027search\u0027]/div/div/div/span/div/div[3]/div/div/div/div/span/div/div/div[2]/div/span/a/div/img",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//img[@alt\u003d\u0027Sponsored Ad - NIBOSI Watch for Men Fashion Business Men Watches Ultra-Thin Waterproof Chronograph Quartz Watches with Sta...\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/order_confirm/Page_Amazon.in  watches/img_s-image_img.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/order_confirm/Page_Select a Payment Method - Amazon.in Checkout/input_a-button-input",
+      "brokenLocator": "(//input[@type\u003d\u0027submit\u0027])[5]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[@type \u003d \u0027submit\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/order_confirm/Page_Select a Payment Method - Amazon.in Checkout/input_a-button-input_customAttributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Payment_option/Page_Select a Payment Method - Amazon.in Checkout/input_ppw-instrumentRowSelection",
+      "brokenLocator": "//input[@id\u003d\u0027pp-7Pqs4I-128\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[5]/div/div/div/div/span/div/label/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Payment_option/Page_Select a Payment Method - Amazon.in Checkout/input_ppw-instrumentRowSelection_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Payment_option/Page_Select a Payment Method - Amazon.in Checkout/input_ppw-instrumentRowSelection_1",
+      "brokenLocator": "//input[@id\u003d\u0027pp-7Pqs4I-123\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/div/label/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Payment_option/Page_Select a Payment Method - Amazon.in Checkout/input_ppw-instrumentRowSelection_1_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Payment_option/Page_Select a Payment Method - Amazon.in Checkout/div_Net Banking",
+      "brokenLocator": "//div[@id\u003d\u0027pp-7Pqs4I-102\u0027]/div/div/div/div/span/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[3]/div/div/div/div/span/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Payment_option/Page_Select a Payment Method - Amazon.in Checkout/div_Net Banking_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Payment_option/Page_Select a Payment Method - Amazon.in Checkout/input_ppw-instrumentRowSelection_1_2",
+      "brokenLocator": "//input[@id\u003d\u0027pp-7Pqs4I-97\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//label/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Payment_option/Page_Select a Payment Method - Amazon.in Checkout/input_ppw-instrumentRowSelection_1_2_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/order_confirm/Page_Amazon.in  watches/img_s-image",
+      "brokenLocator": "//div[@id\u003d\u0027search\u0027]/div/div/div/span/div/div[3]/div/div/div/div/span/div/div/div[2]/div/span/a/div/img",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span/a/div/img",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/order_confirm/Page_Amazon.in  watches/img_s-image_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Login_Test/Page_Amazon Sign In/input_password",
+      "brokenLocator": "//input[@id\u003d\u0027ap_password\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Login_Test/Page_Amazon Sign In/input_password_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Login_Test/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign in",
+      "brokenLocator": "//div[@id\u003d\u0027nav-signin-tooltip\u0027]/a/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span[(text() \u003d \u0027Sign in\u0027 or . \u003d \u0027Sign in\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    }
+  ]
 }

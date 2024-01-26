@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Searching_test_listener,Chrome 121.0.0.0,,,26-01-2024 23:44:12,26-01-2024 23:44:52,40.221s,PASSED
+,,,,,,,
+Test Cases/Searching_By_Test_Listener,Chrome 121.0.0.0,,,26-01-2024 23:44:12,26-01-2024 23:44:52,40.017s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,26-01-2024 23:44:12,26-01-2024 23:44:16,3.845s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,26-01-2024 23:44:16,26-01-2024 23:44:18,2.786s,PASSED
+"click(findTestObject(""Object Repository/Searching_By_test_listener/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign in""))",Chrome 121.0.0.0,,,26-01-2024 23:44:18,26-01-2024 23:44:20,1.942s,PASSED
+"setText(findTestObject(""Object Repository/Searching_By_test_listener/Page_Amazon Sign In/input_email""), ""9939230697"")",Chrome 121.0.0.0,,,26-01-2024 23:44:20,26-01-2024 23:44:23,2.518s,PASSED
+"click(findTestObject(""Object Repository/Searching_By_test_listener/Page_Amazon Sign In/inputcontinue""))",Chrome 121.0.0.0,,,26-01-2024 23:44:23,26-01-2024 23:44:25,2.296s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Searching_By_test_listener/Page_Amazon Sign In/input_password""), ""8s2V7lLGyYQQCSyfcHxfaA=="")",Chrome 121.0.0.0,,,26-01-2024 23:44:25,26-01-2024 23:44:26,0.476s,PASSED
+"click(findTestObject(""Object Repository/Searching_By_test_listener/Page_Amazon Sign In/inputsignInSubmit""))",Chrome 121.0.0.0,,,26-01-2024 23:44:26,26-01-2024 23:44:26,0.337s,PASSED
+"setText(findTestObject(""Object Repository/Searching_By_test_listener/Page_Online Shopping site in India Shop Onl_10c5f3/input_field-keywords""), ""mobile"")",Chrome 121.0.0.0,,,26-01-2024 23:44:26,26-01-2024 23:44:36,9.586s,PASSED
+"click(findTestObject(""Object Repository/Searching_By_test_listener/Page_Online Shopping site in India Shop Onl_10c5f3/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,26-01-2024 23:44:36,26-01-2024 23:44:48,12.051s,PASSED
+"click(findTestObject(""Object Repository/Searching_By_test_listener/Page_Amazon.in  mobile/img_s-image""))",Chrome 121.0.0.0,,,26-01-2024 23:44:48,26-01-2024 23:44:52,3.911s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,26-01-2024 23:44:52,26-01-2024 23:44:52,0.185s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,26-01-2024 23:44:52,26-01-2024 23:44:52,0.005s,PASSED

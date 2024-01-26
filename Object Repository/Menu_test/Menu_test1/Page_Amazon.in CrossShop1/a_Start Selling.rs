@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Start Selling</name>
+   <tag></tag>
+   <elementGuidId>294d0336-b1b4-448d-be4f-15fdf565e25f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Cross_Nav']/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.link.button.button-type-primary.font-size-regular</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3931b67d-cfaa-4661-896d-61c7cd35a218</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sellercentral.amazon.in/gp/on-board/workflow/Registration/login.html?passthrough%2Faccount=soa&amp;passthrough%2FsuperSource=OAR&amp;ref_=az_in_soa_retailNav_Cross_T3&amp;passthrough%2FmarketplaceID=A21TJRUUN4KGV&amp;passthrough%2Flanguage=en_IN&amp;language=en_IN&amp;passthrough%2FinitialSessionID=257-5783457-8946916&amp;passthrough%2Fld=AZINSOANavDesktop_T3_Nav_Cross_T3</value>
+      <webElementGuid>1b443c25-7da7-4299-b88f-66ee15ac39d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link  button button-type-primary font-size-regular</value>
+      <webElementGuid>6ba8966b-dfd5-4a68-a62c-be02d2f5a898</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ld-append</name>
+      <type>Main</type>
+      <value>Nav_Cross_T3</value>
+      <webElementGuid>6da2e804-20c2-445e-bfaf-e9d36b2b8863</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Start Selling</value>
+      <webElementGuid>83450770-e914-4c73-966e-dd79024fb992</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Start Selling</value>
+      <webElementGuid>cba72468-2cd7-4f79-b758-2eb5351b7c03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Cross_Nav&quot;)/div[@class=&quot;align-center&quot;]/a[@class=&quot;link  button button-type-primary font-size-regular&quot;]</value>
+      <webElementGuid>16b86018-ca72-4566-970f-0b7e0e4dc552</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Cross_Nav']/div/a</value>
+      <webElementGuid>9de037b6-a70d-4b86-b994-986668377881</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Start Selling')]</value>
+      <webElementGuid>dec9ca5b-a765-4329-bc0c-f186275d0bb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://sellercentral.amazon.in/gp/on-board/workflow/Registration/login.html?passthrough%2Faccount=soa&amp;passthrough%2FsuperSource=OAR&amp;ref_=az_in_soa_retailNav_Cross_T3&amp;passthrough%2FmarketplaceID=A21TJRUUN4KGV&amp;passthrough%2Flanguage=en_IN&amp;language=en_IN&amp;passthrough%2FinitialSessionID=257-5783457-8946916&amp;passthrough%2Fld=AZINSOANavDesktop_T3_Nav_Cross_T3')]</value>
+      <webElementGuid>d8c7a676-4ddf-4b7d-ad25-176961e123a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div[2]/div/a</value>
+      <webElementGuid>6a86e7e7-51c0-4903-b63b-40e50e86b8a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sellercentral.amazon.in/gp/on-board/workflow/Registration/login.html?passthrough%2Faccount=soa&amp;passthrough%2FsuperSource=OAR&amp;ref_=az_in_soa_retailNav_Cross_T3&amp;passthrough%2FmarketplaceID=A21TJRUUN4KGV&amp;passthrough%2Flanguage=en_IN&amp;language=en_IN&amp;passthrough%2FinitialSessionID=257-5783457-8946916&amp;passthrough%2Fld=AZINSOANavDesktop_T3_Nav_Cross_T3' and (text() = 'Start Selling' or . = 'Start Selling')]</value>
+      <webElementGuid>1766363d-4d03-48ab-be2d-19ea72e61230</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

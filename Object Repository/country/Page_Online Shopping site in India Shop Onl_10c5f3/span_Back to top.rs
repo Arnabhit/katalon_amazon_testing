@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Back to top</name>
+   <tag></tag>
+   <elementGuidId>22c44eaa-2b5d-403b-92a6-d2b2643c1d5d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.navFooterBackToTopText</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='navBackToTop']/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>eff11393-0eda-4c5f-9854-70ec1ea4663d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>navFooterBackToTopText</value>
+      <webElementGuid>bafb69b6-6654-4e75-99fb-e73bad2c67f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+    Back to top
+  </value>
+      <webElementGuid>54e07767-703f-4d50-ba5a-ff907f91cc68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navBackToTop&quot;)/div[@class=&quot;navFooterBackToTop&quot;]/span[@class=&quot;navFooterBackToTopText&quot;]</value>
+      <webElementGuid>14443fab-d94e-4918-98a5-d81f77b6dcef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='navBackToTop']/div/span</value>
+      <webElementGuid>08eacef5-7075-4618-b913-8abf32f63484</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a/div/span</value>
+      <webElementGuid>dcd17eb7-16ad-4998-ad9d-b59ffd7aee55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+    Back to top
+  ' or . = '
+    Back to top
+  ')]</value>
+      <webElementGuid>d999f44e-19ac-4656-9ba0-5eb7fa8186d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

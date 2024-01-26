@@ -1,0 +1,19 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Order_confirm,Chrome 120.0.0.0,,,25-01-2024 21:47:31,25-01-2024 21:51:18,3m - 47.537s,PASSED
+,,,,,,,
+Test Cases/TC_Amazon_Home_007,Chrome 120.0.0.0,,,25-01-2024 21:47:31,25-01-2024 21:51:18,3m - 47.372s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,25-01-2024 21:47:31,25-01-2024 21:47:33,1.716s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 120.0.0.0,,,25-01-2024 21:47:33,25-01-2024 21:48:56,1m - 22.845s,PASSED
+"click(findTestObject(""Object Repository/order_confirm/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign in""))",Chrome 120.0.0.0,,,25-01-2024 21:48:56,25-01-2024 21:49:01,5.777s,PASSED
+"setText(findTestObject(""Object Repository/order_confirm/Page_Amazon Sign In/input_email""), ""9798810632"")",Chrome 120.0.0.0,,,25-01-2024 21:49:01,25-01-2024 21:49:03,1.979s,PASSED
+"click(findTestObject(""Object Repository/order_confirm/Page_Amazon Sign In/inputcontinue""))",Chrome 120.0.0.0,,,25-01-2024 21:49:03,25-01-2024 21:49:05,1.799s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/order_confirm/Page_Amazon Sign In/input_password""), ""iXLP3gWrZeMwNiQIWCdafQ=="")",Chrome 120.0.0.0,,,25-01-2024 21:49:05,25-01-2024 21:49:06,0.555s,PASSED
+"click(findTestObject(""Object Repository/order_confirm/Page_Amazon Sign In/inputsignInSubmit""))",Chrome 120.0.0.0,,,25-01-2024 21:49:06,25-01-2024 21:49:06,0.373s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/order_confirm/Page_Amazon Sign In/input_password""), ""9N/NeoNUwAmOpqY2L/5HEg=="")",Chrome 120.0.0.0,,,25-01-2024 21:49:06,25-01-2024 21:49:09,2.723s,PASSED
+"click(findTestObject(""Object Repository/order_confirm/Page_Amazon Sign In/inputsignInSubmit""))",Chrome 120.0.0.0,,,25-01-2024 21:49:09,25-01-2024 21:49:09,0.364s,PASSED
+"setText(findTestObject(""Object Repository/order_confirm/Page_Online Shopping site in India Shop Onl_10c5f3/input_field-keywords""), ""watches"")",Chrome 120.0.0.0,,,25-01-2024 21:49:09,25-01-2024 21:50:17,1m - 7.944s,PASSED
+"click(findTestObject(""Object Repository/order_confirm/Page_Online Shopping site in India Shop Onl_10c5f3/inputnav-search-submit-button""))",Chrome 120.0.0.0,,,25-01-2024 21:50:17,25-01-2024 21:50:30,13.259s,PASSED
+"switchToWindowTitle(""Amazon.in : watches"")",Chrome 120.0.0.0,,,25-01-2024 21:50:30,25-01-2024 21:50:30,0.030s,PASSED
+"click(findTestObject(""Object Repository/order_confirm/Page_Amazon.in  watches/img_s-image""))",Chrome 120.0.0.0,,,25-01-2024 21:50:30,25-01-2024 21:51:04,33.471s,PASSED
+"click(findTestObject(""Object Repository/order_confirm/Page_Select a Payment Method - Amazon.in Checkout/input_a-button-input""))",Chrome 120.0.0.0,,,25-01-2024 21:51:04,25-01-2024 21:51:18,14.041s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,25-01-2024 21:51:18,25-01-2024 21:51:18,0.255s,PASSED

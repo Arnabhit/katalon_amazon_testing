@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Searching_Data_Driven</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>bb8853aa-dc6f-4714-a741-3b41f87d6810</testSuiteGuid>
+   <testCaseLink>
+      <guid>6e4ef838-faab-4cd5-9ff7-6c79f2072024</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Data_driven_searching</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>bae17d00-0164-42ab-94a9-c56831160000</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Search/search_item</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>bae17d00-0164-42ab-94a9-c56831160000</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>611534f9-8bce-42cb-aa2b-55bebad6ed81</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>bae17d00-0164-42ab-94a9-c56831160000</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>c0ee29ce-5fa0-452c-81ff-4a43acf2ffed</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>bae17d00-0164-42ab-94a9-c56831160000</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>searchitem</value>
+         <variableId>b0ec250a-fbf0-4e77-8e9b-5624aca6edbd</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Country_Test" time="184.49" tests="1" failures="0" errors="0">
+   <testsuite name="Country_Test" tests="1" failures="0" errors="0" time="184.49" skipped="0" timestamp="25-01-2024T22:06:04" hostname="Win11 - Arnab-er" id="Test Suites/Country_Test">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Win11\\git\\katalon_amazon_testing\\Reports\\20240125_220559\\Country_Test\\20240125_220600"/>
+         <property name="logFiles" value="C:\\Users\\Win11\\git\\katalon_amazon_testing\\Reports\\20240125_220559\\Country_Test\\20240125_220600\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\Win11\\git\\katalon_amazon_testing\\Reports\\20240125_220559\\Country_Test\\20240125_220600\\1706200673753.png, C:\\Users\\Win11\\git\\katalon_amazon_testing\\Reports\\20240125_220559\\Country_Test\\20240125_220600\\1706200710675.png, C:\\Users\\Win11\\git\\katalon_amazon_testing\\Reports\\20240125_220559\\Country_Test\\20240125_220600\\1706200748238.png"/>
+         <property name="hostName" value="Win11 - Arnab-er"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.1.0.212"/>
+         <property name="browser" value="Chrome 120.0.0.0"/>
+         <property name="hostAddress" value="192.168.12.7"/>
+         <property name="sessionId" value="b8e449c149f18b036e2e67cd4c75c9cb"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/TC_Amazon_Home_010" time="184.265" classname="Test Cases/TC_Amazon_Home_010" status="PASSED">
+         <system-out><![CDATA[25-01-2024T22:06:04 - [TEST_CASE][PASSED] - Test Cases/TC_Amazon_Home_010: Test Cases/TC_Amazon_Home_010
+
+25-01-2024T22:06:05 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+25-01-2024T22:06:05 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+25-01-2024T22:06:05 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+25-01-2024T22:06:06 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+25-01-2024T22:06:06 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.in/"): Navigate to 'https://www.amazon.in/' successfully
+
+25-01-2024T22:06:08 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.in/' successfully
+
+25-01-2024T22:06:08 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+25-01-2024T22:06:08 - [MESSAGE][PASSED] - Browser is closed
+
+25-01-2024T22:06:08 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+25-01-2024T22:06:08 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+25-01-2024T22:06:08 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+25-01-2024T22:06:09 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+25-01-2024T22:06:09 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.in/"): Navigate to 'https://www.amazon.in/' successfully
+
+25-01-2024T22:06:11 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.in/' successfully
+
+25-01-2024T22:06:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/country/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign in")): Object: 'Object Repository/country/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign in' is clicked on
+
+25-01-2024T22:06:13 - [MESSAGE][PASSED] - Object: 'Object Repository/country/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign in' is clicked on
+
+25-01-2024T22:06:13 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/country/Page_Amazon Sign In/input_email"), "9798810632"): Text '9798810632' is set on object 'Object Repository/country/Page_Amazon Sign In/input_email'
+
+25-01-2024T22:06:16 - [MESSAGE][PASSED] - Text '9798810632' is set on object 'Object Repository/country/Page_Amazon Sign In/input_email'
+
+25-01-2024T22:06:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/country/Page_Amazon Sign In/inputcontinue")): Object: 'Object Repository/country/Page_Amazon Sign In/inputcontinue' is clicked on
+
+25-01-2024T22:06:17 - [MESSAGE][PASSED] - Object: 'Object Repository/country/Page_Amazon Sign In/inputcontinue' is clicked on
+
+25-01-2024T22:06:17 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/country/Page_Amazon Sign In/input_password"), "9N/NeoNUwAmOpqY2L/5HEg=="): Text ****** has been set on object 'Object Repository/country/Page_Amazon Sign In/input_password'
+
+25-01-2024T22:06:18 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/country/Page_Amazon Sign In/input_password'
+
+25-01-2024T22:06:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/country/Page_Amazon Sign In/inputsignInSubmit")): Object: 'Object Repository/country/Page_Amazon Sign In/inputsignInSubmit' is clicked on
+
+25-01-2024T22:06:19 - [MESSAGE][PASSED] - Object: 'Object Repository/country/Page_Amazon Sign In/inputsignInSubmit' is clicked on
+
+25-01-2024T22:06:19 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/country/Page_Online Shopping site in India Shop Onl_10c5f3/a_Australia")): Object: 'Object Repository/country/Page_Online Shopping site in India Shop Onl_10c5f3/a_Australia' is clicked on
+
+25-01-2024T22:06:43 - [MESSAGE][PASSED] - Object: 'Object Repository/country/Page_Online Shopping site in India Shop Onl_10c5f3/a_Australia' is clicked on
+
+25-01-2024T22:06:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/country/Page_Online Shopping site in India Shop Onl_10c5f3/a_Brazil")): Object: 'Object Repository/country/Page_Online Shopping site in India Shop Onl_10c5f3/a_Brazil' is clicked on
+
+25-01-2024T22:07:16 - [MESSAGE][PASSED] - Object: 'Object Repository/country/Page_Online Shopping site in India Shop Onl_10c5f3/a_Brazil' is clicked on
+
+25-01-2024T22:07:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/country/Page_Online Shopping site in India Shop Onl_10c5f3/a_China"), OPTIONAL): Unable to click on object 'Object Repository/country/Page_Online Shopping site in India Shop Onl_10c5f3/a_China' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/country/Page_Online Shopping site in India Shop Onl_10c5f3/a_China'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:647)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:44)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1706200560855.run(TempTestSuite1706200560855.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/country/Page_Online Shopping site in India Shop Onl_10c5f3/a_China' located by '//div[@id='navFooter']/div[4]/ul/li[4]/a' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1379)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:647)
+	at Script1706197974959.run(Script1706197974959.groovy:44)
+	... 15 more
+)
+
+25-01-2024T22:07:48 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='navFooter']/div[4]/ul/li[4]/a'. Please recheck the objects properties to make sure the desired element is located. 
+
+25-01-2024T22:07:48 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/country/Page_Online Shopping site in India Shop Onl_10c5f3/a_China'. Try using Self-healing.
+
+25-01-2024T22:07:48 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//div[@id='navFooter']/div[4]/ul/li[4]/a'.
+
+25-01-2024T22:07:49 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//a[contains(text(),'China')]'.
+
+25-01-2024T22:07:49 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//a[contains(@href, 'https://www.amazon.cn/ref=footer_cn')]'.
+
+25-01-2024T22:07:50 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//div[4]/ul/li[4]/a'.
+
+25-01-2024T22:07:50 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//a[@href = 'https://www.amazon.cn/ref=footer_cn' and (text() = 'China' or . = 'China')]'.
+
+25-01-2024T22:07:52 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //*[@href = 'https://www.amazon.cn/ref=footer_cn' and (text() = 'China' or . = 'China')]'. Please recheck the objects properties to make sure the desired element is located. 
+
+25-01-2024T22:07:53 - [MESSAGE][INFO] - Unable to find the element located by 'By.cssSelector: div.navFooterLine.navFooterLinkLine.navFooterPadItemLine > ul > li:nth-of-type(4) > a.nav_a'. Please recheck the objects properties to make sure the desired element is located. 
+
+25-01-2024T22:07:53 - [MESSAGE][WARNING] - Unable to click on object 'Object Repository/country/Page_Online Shopping site in India Shop Onl_10c5f3/a_China' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/country/Page_Online Shopping site in India Shop Onl_10c5f3/a_China'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:647)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:44)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1706200560855.run(TempTestSuite1706200560855.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/country/Page_Online Shopping site in India Shop Onl_10c5f3/a_China' located by '//div[@id='navFooter']/div[4]/ul/li[4]/a' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1379)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:647)
+	at Script1706197974959.run(Script1706197974959.groovy:44)
+	... 15 more
+)
+[[ATTACHMENT|C:\\Users\\Win11\\git\\katalon_amazon_testing\\Reports\\20240125_220559\\Country_Test\\20240125_220600\\1706200673753.png]]
+
+25-01-2024T22:07:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/country/Page_Online Shopping site in India Shop Onl_10c5f3/a_Germany"), OPTIONAL): Unable to click on object 'Object Repository/country/Page_Online Shopping site in India Shop Onl_10c5f3/a_Germany' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/country/Page_Online Shopping site in India Shop Onl_10c5f3/a_Germany'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:647)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:46)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1706200560855.run(TempTestSuite1706200560855.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/country/Page_Online Shopping site in India Shop Onl_10c5f3/a_Germany' located by '//div[@id='navFooter']/div[4]/ul/li[6]/a' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1379)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:647)
+	at Script1706197974959.run(Script1706197974959.groovy:46)
+	... 15 more
+)
+
+25-01-2024T22:08:25 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='navFooter']/div[4]/ul/li[6]/a'. Please recheck the objects properties to make sure the desired element is located. 
+
+25-01-2024T22:08:25 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/country/Page_Online Shopping site in India Shop Onl_10c5f3/a_Germany'. Try using Self-healing.
+
+25-01-2024T22:08:25 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//div[@id='navFooter']/div[4]/ul/li[6]/a'.
+
+25-01-2024T22:08:26 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//a[contains(text(),'Germany')]'.
+
+25-01-2024T22:08:26 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//a[contains(@href, 'https://www.amazon.de/ref=footer_de')]'.
+
+25-01-2024T22:08:27 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//div[4]/ul/li[6]/a'.
+
+25-01-2024T22:08:27 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//a[@href = 'https://www.amazon.de/ref=footer_de' and (text() = 'Germany' or . = 'Germany')]'.
+
+25-01-2024T22:08:29 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //*[@href = 'https://www.amazon.de/ref=footer_de' and (text() = 'Germany' or . = 'Germany')]'. Please recheck the objects properties to make sure the desired element is located. 
+
+25-01-2024T22:08:30 - [MESSAGE][INFO] - Unable to find the element located by 'By.cssSelector: div.navFooterLine.navFooterLinkLine.navFooterPadItemLine > ul > li:nth-of-type(6) > a.nav_a'. Please recheck the objects properties to make sure the desired element is located. 
+
+25-01-2024T22:08:30 - [MESSAGE][WARNING] - Unable to click on object 'Object Repository/country/Page_Online Shopping site in India Shop Onl_10c5f3/a_Germany' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/country/Page_Online Shopping site in India Shop Onl_10c5f3/a_Germany'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:647)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:46)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1706200560855.run(TempTestSuite1706200560855.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/country/Page_Online Shopping site in India Shop Onl_10c5f3/a_Germany' located by '//div[@id='navFooter']/div[4]/ul/li[6]/a' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1379)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:647)
+	at Script1706197974959.run(Script1706197974959.groovy:46)
+	... 15 more
+)
+[[ATTACHMENT|C:\\Users\\Win11\\git\\katalon_amazon_testing\\Reports\\20240125_220559\\Country_Test\\20240125_220600\\1706200710675.png]]
+
+25-01-2024T22:08:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/country/Page_Online Shopping site in India Shop Onl_10c5f3/a_Poland"), OPTIONAL): Unable to click on object 'Object Repository/country/Page_Online Shopping site in India Shop Onl_10c5f3/a_Poland' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/country/Page_Online Shopping site in India Shop Onl_10c5f3/a_Poland'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:647)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:48)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1706200560855.run(TempTestSuite1706200560855.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/country/Page_Online Shopping site in India Shop Onl_10c5f3/a_Poland' located by '//div[@id='navFooter']/div[4]/ul/li[11]/a' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1379)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:647)
+	at Script1706197974959.run(Script1706197974959.groovy:48)
+	... 15 more
+)
+
+25-01-2024T22:09:02 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='navFooter']/div[4]/ul/li[11]/a'. Please recheck the objects properties to make sure the desired element is located. 
+
+25-01-2024T22:09:02 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/country/Page_Online Shopping site in India Shop Onl_10c5f3/a_Poland'. Try using Self-healing.
+
+25-01-2024T22:09:02 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//div[@id='navFooter']/div[4]/ul/li[11]/a'.
+
+25-01-2024T22:09:03 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//a[contains(text(),'Poland')]'.
+
+25-01-2024T22:09:03 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//a[contains(@href, 'https://www.amazon.pl/ref=footer_pl')]'.
+
+25-01-2024T22:09:04 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//li[11]/a'.
+
+25-01-2024T22:09:05 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//a[@href = 'https://www.amazon.pl/ref=footer_pl' and (text() = 'Poland' or . = 'Poland')]'.
+
+25-01-2024T22:09:06 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //*[@href = 'https://www.amazon.pl/ref=footer_pl' and (text() = 'Poland' or . = 'Poland')]'. Please recheck the objects properties to make sure the desired element is located. 
+
+25-01-2024T22:09:08 - [MESSAGE][INFO] - Unable to find the element located by 'By.cssSelector: li:nth-of-type(11) > a.nav_a'. Please recheck the objects properties to make sure the desired element is located. 
+
+25-01-2024T22:09:08 - [MESSAGE][WARNING] - Unable to click on object 'Object Repository/country/Page_Online Shopping site in India Shop Onl_10c5f3/a_Poland' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/country/Page_Online Shopping site in India Shop Onl_10c5f3/a_Poland'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:647)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:48)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1706200560855.run(TempTestSuite1706200560855.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/country/Page_Online Shopping site in India Shop Onl_10c5f3/a_Poland' located by '//div[@id='navFooter']/div[4]/ul/li[11]/a' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1379)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:647)
+	at Script1706197974959.run(Script1706197974959.groovy:48)
+	... 15 more
+)
+[[ATTACHMENT|C:\\Users\\Win11\\git\\katalon_amazon_testing\\Reports\\20240125_220559\\Country_Test\\20240125_220600\\1706200748238.png]]
+
+25-01-2024T22:09:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/country/Page_Online Shopping site in India Shop Onl_10c5f3/span_Back to top")): Object: 'Object Repository/country/Page_Online Shopping site in India Shop Onl_10c5f3/span_Back to top' is clicked on
+
+25-01-2024T22:09:08 - [MESSAGE][PASSED] - Object: 'Object Repository/country/Page_Online Shopping site in India Shop Onl_10c5f3/span_Back to top' is clicked on
+
+25-01-2024T22:09:08 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+25-01-2024T22:09:09 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[25-01-2024T22:06:04 - [TEST_SUITE][PASSED] - Country_Test: Test Cases/TC_Amazon_Home_010]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
