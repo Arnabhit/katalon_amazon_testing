@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i__a-icon a-icon-checkbox</name>
+   <tag></tag>
+   <elementGuidId>c716b3ed-15ec-4a3d-8e04-277e1f6fb2f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.a-icon.a-icon-checkbox</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='p_89/Samsung']/span/a/div/label/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>43bd53ab-2f27-40d1-b9d2-6a75be4766e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-icon a-icon-checkbox</value>
+      <webElementGuid>68292f92-435a-4be9-8d87-b26615958d96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p_89/Samsung&quot;)/span[@class=&quot;a-list-item&quot;]/a[@class=&quot;a-link-normal s-navigation-item&quot;]/div[@class=&quot;a-checkbox a-checkbox-fancy s-navigation-checkbox aok-float-left&quot;]/label[1]/i[@class=&quot;a-icon a-icon-checkbox&quot;]</value>
+      <webElementGuid>e8d7910f-bc71-44ec-a9f2-a71250fbddd6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='p_89/Samsung']/span/a/div/label/i</value>
+      <webElementGuid>2e226950-71a0-4720-bf27-42140790c274</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/i</value>
+      <webElementGuid>c2b80088-5150-4690-9d39-945023ca9495</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

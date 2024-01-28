@@ -15,7 +15,7 @@
       <guid>423fe726-47c5-44e2-83fe-4e7134154133</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Data_driven_login</testCaseId>
+      <testCaseId>Test Cases/TC_Amazon_Home_DataDriven_Login_013</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>57c4f613-d564-4fa6-9e05-4250f2dced49</id>

@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Dropdown_validation_test_by_checkpoints,Chrome 121.0.0.0,,,27-01-2024 22:29:40,27-01-2024 22:32:25,2m - 44.720s,PASSED
+,,,,,,,
+Test Cases/Validating_checkpoint,Chrome 121.0.0.0,,,27-01-2024 22:29:41,27-01-2024 22:32:25,2m - 44.360s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,27-01-2024 22:29:41,27-01-2024 22:29:51,10.731s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,27-01-2024 22:29:51,27-01-2024 22:29:56,4.277s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,27-01-2024 22:29:56,27-01-2024 22:29:57,0.964s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 121.0.0.0,,,27-01-2024 22:29:57,27-01-2024 22:30:04,6.931s,PASSED
+"click(findTestObject(""Object Repository/Dropdown_validation_by_checkpoint/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign in""))",Chrome 121.0.0.0,,,27-01-2024 22:30:04,27-01-2024 22:30:11,7.252s,PASSED
+"setText(findTestObject(""Object Repository/Dropdown_validation_by_checkpoint/Page_Amazon Sign In/input_email""), ""9798810632"")",Chrome 121.0.0.0,,,27-01-2024 22:30:11,27-01-2024 22:30:14,2.670s,PASSED
+"click(findTestObject(""Object Repository/Dropdown_validation_by_checkpoint/Page_Amazon Sign In/inputcontinue""))",Chrome 121.0.0.0,,,27-01-2024 22:30:14,27-01-2024 22:30:18,4.603s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Dropdown_validation_by_checkpoint/Page_Amazon Sign In/input_password""), ""9N/NeoNUwAmOpqY2L/5HEg=="")",Chrome 121.0.0.0,,,27-01-2024 22:30:18,27-01-2024 22:30:19,0.585s,PASSED
+"click(findTestObject(""Object Repository/Dropdown_validation_by_checkpoint/Page_Amazon Sign In/inputsignInSubmit""))",Chrome 121.0.0.0,,,27-01-2024 22:30:19,27-01-2024 22:30:19,0.456s,PASSED
+"click(findTestObject(""Object Repository/Dropdown_validation_by_checkpoint/Page_Online Shopping site in India Shop Onl_10c5f3/span_EN""))",Chrome 121.0.0.0,,,27-01-2024 22:30:19,27-01-2024 22:32:18,1m - 58.605s,PASSED
+"click(findTestObject(""Object Repository/Dropdown_validation_by_checkpoint/Page_Change Language Settings/i_a-icon a-icon-radio""))",Chrome 121.0.0.0,,,27-01-2024 22:32:18,27-01-2024 22:32:21,3.088s,PASSED
+"click(findTestObject(""Object Repository/Dropdown_validation_by_checkpoint/Page_Change Language Settings/h3_""), OPTIONAL)",Chrome 121.0.0.0,,,27-01-2024 22:32:21,27-01-2024 22:32:24,3.054s,PASSED
+"verifyCheckpoint(findCheckpoint(""Checkpoints/Checkpoint_for_Dropdown""), false, OPTIONAL)",Chrome 121.0.0.0,,,27-01-2024 22:32:24,27-01-2024 22:32:25,0.729s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,27-01-2024 22:32:25,27-01-2024 22:32:25,0.205s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,27-01-2024 22:32:25,27-01-2024 22:32:25,0.010s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,27-01-2024 22:32:25,27-01-2024 22:32:25,0.011s,PASSED

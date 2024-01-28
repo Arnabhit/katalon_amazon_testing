@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Searching_test_listener</name>
+   <name>checkbox_validation_by_keywords</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>314249d5-b3ad-4bfe-954a-d0862c20b324</testSuiteGuid>
+   <testSuiteGuid>1ee40301-73e7-4398-b541-e3661663bd9c</testSuiteGuid>
    <testCaseLink>
-      <guid>45cbd091-dc22-4b2d-b77b-40785d48aea3</guid>
+      <guid>6c15fa93-4751-4565-bf5b-b80bc7bea13e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC_Amazon_Home_Searching_By_Test_Listener-016</testCaseId>
+      <testCaseId>Test Cases/TC_Amazon_Search_Validating_checkbox_011</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

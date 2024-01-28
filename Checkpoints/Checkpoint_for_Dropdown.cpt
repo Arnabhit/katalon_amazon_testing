@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint_for_Dropdown</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/Login_data/Login</source-url>
+   </source-info>
+   <taken-date>2024-01-27T22:19:16.099+05:30</taken-date>
+   <column-names>
+      <column-name>Username</column-name>
+      <column-name>password</column-name>
+      <column-name>confirmation</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "arnabbaruajsr@gmail.com",
+      "checked": false
+    },
+    {
+      "value": "aRNAB@2002",
+      "checked": false
+    },
+    {
+      "value": "भाषा सेटिंग",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "9939230697",
+      "checked": false
+    },
+    {
+      "value": "aBARUA@2002",
+      "checked": false
+    },
+    {
+      "value": "भाषा सेटिंग",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

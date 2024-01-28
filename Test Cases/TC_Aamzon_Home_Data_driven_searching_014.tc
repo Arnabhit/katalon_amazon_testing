@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Aamzon_Home_Data_driven_searching_014</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>553a8570-136b-4f04-b273-db00fa7666d1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>611534f9-8bce-42cb-aa2b-55bebad6ed81</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c0ee29ce-5fa0-452c-81ff-4a43acf2ffed</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b0ec250a-fbf0-4e77-8e9b-5624aca6edbd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>611534f9-8bce-42cb-aa2b-55bebad6ed81</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c0ee29ce-5fa0-452c-81ff-4a43acf2ffed</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b0ec250a-fbf0-4e77-8e9b-5624aca6edbd</id>
+      <masked>false</masked>
+      <name>searchitem</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Dropdown_validation_test_by_checkpoints" time="164.72" tests="1" failures="0" errors="0">
+   <testsuite name="Dropdown_validation_test_by_checkpoints" tests="1" failures="0" errors="0" time="164.72" skipped="0" timestamp="27-01-2024T22:29:40" hostname="Win11 - Arnab-er" id="Test Suites/Dropdown_validation_test_by_checkpoints">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Win11\\git\\katalon_amazon_testing\\Reports\\20240127_222935\\Dropdown_validation_test_by_checkpoints\\20240127_222935"/>
+         <property name="logFiles" value="C:\\Users\\Win11\\git\\katalon_amazon_testing\\Reports\\20240127_222935\\Dropdown_validation_test_by_checkpoints\\20240127_222935\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Win11 - Arnab-er"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.1.0.212"/>
+         <property name="browser" value="Chrome 121.0.0.0"/>
+         <property name="hostAddress" value="192.168.4.7"/>
+         <property name="sessionId" value="f6123bede07e4b38aa0b23ed830a1da0"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Validating_checkpoint" time="164.36" classname="Test Cases/Validating_checkpoint" status="PASSED">
+         <system-out><![CDATA[27-01-2024T22:29:41 - [TEST_CASE][PASSED] - Test Cases/Validating_checkpoint: Test Cases/Validating_checkpoint
+
+27-01-2024T22:29:41 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: Current window maximized
+
+27-01-2024T22:29:41 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+27-01-2024T22:29:41 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+27-01-2024T22:29:41 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+27-01-2024T22:29:43 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+27-01-2024T22:29:43 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.in/"): Navigate to 'https://www.amazon.in/' successfully
+
+27-01-2024T22:29:51 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.in/' successfully
+
+27-01-2024T22:29:51 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+27-01-2024T22:29:51 - [MESSAGE][PASSED] - Current window maximized
+
+27-01-2024T22:29:51 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: Navigate to 'https://www.amazon.in/' successfully
+
+27-01-2024T22:29:51 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+27-01-2024T22:29:51 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+27-01-2024T22:29:52 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+27-01-2024T22:29:52 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+27-01-2024T22:29:53 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+27-01-2024T22:29:53 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.in/"): Navigate to 'https://www.amazon.in/' successfully
+
+27-01-2024T22:29:56 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.in/' successfully
+
+27-01-2024T22:29:56 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+27-01-2024T22:29:56 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+27-01-2024T22:29:56 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+27-01-2024T22:29:56 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+27-01-2024T22:29:57 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+27-01-2024T22:29:57 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.in/"): Navigate to 'https://www.amazon.in/' successfully
+
+27-01-2024T22:30:04 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.in/' successfully
+
+27-01-2024T22:30:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Dropdown_validation_by_checkpoint/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign in")): Object: 'Object Repository/Dropdown_validation_by_checkpoint/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign in' is clicked on
+
+27-01-2024T22:30:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Dropdown_validation_by_checkpoint/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign in' is clicked on
+
+27-01-2024T22:30:11 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Dropdown_validation_by_checkpoint/Page_Amazon Sign In/input_email"), "9798810632"): Text '9798810632' is set on object 'Object Repository/Dropdown_validation_by_checkpoint/Page_Amazon Sign In/input_email'
+
+27-01-2024T22:30:14 - [MESSAGE][PASSED] - Text '9798810632' is set on object 'Object Repository/Dropdown_validation_by_checkpoint/Page_Amazon Sign In/input_email'
+
+27-01-2024T22:30:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Dropdown_validation_by_checkpoint/Page_Amazon Sign In/inputcontinue")): Object: 'Object Repository/Dropdown_validation_by_checkpoint/Page_Amazon Sign In/inputcontinue' is clicked on
+
+27-01-2024T22:30:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Dropdown_validation_by_checkpoint/Page_Amazon Sign In/inputcontinue' is clicked on
+
+27-01-2024T22:30:18 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Dropdown_validation_by_checkpoint/Page_Amazon Sign In/input_password"), "9N/NeoNUwAmOpqY2L/5HEg=="): Text ****** has been set on object 'Object Repository/Dropdown_validation_by_checkpoint/Page_Amazon Sign In/input_password'
+
+27-01-2024T22:30:19 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Dropdown_validation_by_checkpoint/Page_Amazon Sign In/input_password'
+
+27-01-2024T22:30:19 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Dropdown_validation_by_checkpoint/Page_Amazon Sign In/inputsignInSubmit")): Object: 'Object Repository/Dropdown_validation_by_checkpoint/Page_Amazon Sign In/inputsignInSubmit' is clicked on
+
+27-01-2024T22:30:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Dropdown_validation_by_checkpoint/Page_Amazon Sign In/inputsignInSubmit' is clicked on
+
+27-01-2024T22:30:19 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Dropdown_validation_by_checkpoint/Page_Online Shopping site in India Shop Onl_10c5f3/span_EN")): Object: 'Object Repository/Dropdown_validation_by_checkpoint/Page_Online Shopping site in India Shop Onl_10c5f3/span_EN' is clicked on
+
+27-01-2024T22:32:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Dropdown_validation_by_checkpoint/Page_Online Shopping site in India Shop Onl_10c5f3/span_EN' is clicked on
+
+27-01-2024T22:32:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Dropdown_validation_by_checkpoint/Page_Change Language Settings/i_a-icon a-icon-radio")): Object: 'Object Repository/Dropdown_validation_by_checkpoint/Page_Change Language Settings/i_a-icon a-icon-radio' is clicked on
+
+27-01-2024T22:32:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Dropdown_validation_by_checkpoint/Page_Change Language Settings/i_a-icon a-icon-radio' is clicked on
+
+27-01-2024T22:32:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Dropdown_validation_by_checkpoint/Page_Change Language Settings/h3_"), OPTIONAL): Object: 'Object Repository/Dropdown_validation_by_checkpoint/Page_Change Language Settings/h3_' is clicked on
+
+27-01-2024T22:32:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Dropdown_validation_by_checkpoint/Page_Change Language Settings/h3_' is clicked on
+
+27-01-2024T22:32:24 - [TEST_STEP][PASSED] - verifyCheckpoint(findCheckpoint("Checkpoints/Checkpoint_for_Dropdown"), false, OPTIONAL): Checkpoint data and Source data are matched
+
+27-01-2024T22:32:25 - [MESSAGE][PASSED] - Checkpoint data and Source data are matched
+
+27-01-2024T22:32:25 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+27-01-2024T22:32:25 - [MESSAGE][PASSED] - Browser is closed
+
+27-01-2024T22:32:25 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: Browser is closed
+
+27-01-2024T22:32:25 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+27-01-2024T22:32:25 - [MESSAGE][PASSED] - Browser is closed
+
+27-01-2024T22:32:25 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: Browser is closed
+
+27-01-2024T22:32:25 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+27-01-2024T22:32:25 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[27-01-2024T22:29:40 - [TEST_SUITE][PASSED] - Dropdown_validation_test_by_checkpoints: Test Cases/Validating_checkpoint]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

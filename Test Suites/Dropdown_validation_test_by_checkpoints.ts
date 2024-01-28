@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Searching_test_listener</name>
+   <name>Dropdown_validation_test_by_checkpoints</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
-   <numberOfRerun>0</numberOfRerun>
+   <numberOfRerun>3</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
-   <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>314249d5-b3ad-4bfe-954a-d0862c20b324</testSuiteGuid>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>ea90db43-03a2-43e7-844b-87dd3b00caa0</testSuiteGuid>
    <testCaseLink>
-      <guid>45cbd091-dc22-4b2d-b77b-40785d48aea3</guid>
+      <guid>6e9e7176-d5bd-4446-8638-cc98fd53ae92</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC_Amazon_Home_Searching_By_Test_Listener-016</testCaseId>
+      <testCaseId>Test Cases/TC_Amazon_Home_Validating_Dropdown_012</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
